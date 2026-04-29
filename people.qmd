@@ -1,0 +1,36 @@
+---
+title: "Team"
+listing:
+  - id: pi
+    contents: people/*.qmd
+    type: default
+    filter-ui: false
+    sort-ui: false
+    include:
+      categories: [pi]
+
+  - id: all
+    contents: people/*.qmd
+    type: grid
+    filter-ui: false
+    sort-ui: false
+    include:
+      categories: [all]
+
+  - id: phd
+    contents: people/*.qmd
+    type: default
+    filter-ui: false
+    sort-ui: false
+    include:
+      categories: [phd]
+---
+
+## Group Leader
+::: {#pi}
+:::
+
+## People A-Z
+::: {#all}
+:::
+

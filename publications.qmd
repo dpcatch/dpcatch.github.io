@@ -1,0 +1,14 @@
+---
+title: "Publikationen"
+---
+
+## 2024
+
+**Mustermann, M.**, & Kollegin, A. (2024). Titel des Papers.
+*Journal of NLP Research*, 12(3), 45–67.
+[PDF](link) | [Code](link)
+
+## 2023
+
+**Mustermann, M.** (2023). Noch ein Paper-Titel.
+*Proceedings of ACL 2023*.

@@ -1,0 +1,19 @@
+---
+title: "DPCATCH"
+subtitle: "SWISS LISA Data Processing Center"
+image: foto.jpg
+about:
+  template: jolla
+  links:
+    - icon: envelope
+      text: E-Mail
+      href: mailto:max@uni-beispiel.de
+    - icon: github
+      text: GitHub
+      href: https://github.com/maxmuster
+    - icon: mortarboard
+      text: Google Scholar
+      href: https://scholar.google.com
+---
+
+Add text

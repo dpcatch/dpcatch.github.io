@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: public
+
+website:
+  title: "DPCATCH"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: people.qmd
+        text: People
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: software.qmd
+        text: Software
+
+format:
+  html:
+    theme: cosmo
+    toc: true

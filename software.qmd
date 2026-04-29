@@ -1,0 +1,33 @@
+---
+title: "Used Software"
+---
+
+## Codes developed at DPCATCH ##
+
+
+
+## Other Codes ##
+
+
+
+### Geemoo ###
+<https://arxiv.org/abs/2501.10277>
+
+
+### Erebor ###
+
+<https://arxiv.org/abs/2405.04690> 
+
+
+### Glass ###
+
+<https://arxiv.org/abs/2301.03673>
+
+
+### Stefan’s code ###
+<https://arxiv.org/pdf/2403.15318>
+ 
+<https://github.com/stefanstrub/GlobalGB>
+
+Author: Stefan Strub
+

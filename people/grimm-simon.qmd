@@ -1,0 +1,25 @@
+---
+title: "Grimm, Simon, Dr."
+description: "Software Engineer"
+image: Portrait_Placeholder.png
+categories: [all]
+about:
+  template: jolla
+  image-shape: round
+  links:
+    #see a list of available icons here: https://icons.getbootstrap.com/
+    - icon: envelope-at
+      text: Email
+      href: mailto:sigrimm@ethz.ch 
+    - icon: github
+      text: Github
+      href: https://github.com/sigrimm
+    - icon: github
+      text: Bitbucket
+      href: https://bitbucket.org/sigrimm
+    - icon: globe
+      text: homepage
+      href: "#" 
+---
+Add Description
+

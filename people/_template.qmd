@@ -1,0 +1,26 @@
+---
+title: "name, first name, title."	#add name and title here
+description: "#"			#Postdoc, PhD student, ...
+image: Portrait_Placeholder.png		#insert link to image 
+categories: [all]			#pi | all
+about:
+  template: jolla
+  image-shape: round
+  links:
+    #see a list of available icons here: https://icons.getbootstrap.com/
+    - icon: envelope-at
+      text: Email
+      href: mailto:			#add email here
+    - icon: github
+      text: Github
+      href: https://github.com/   	#add github page here
+    - icon: globe			
+      text: homepage
+      href: "#" 			#add personal homepage here
+
+					#add other information
+
+#add Description about yourself here
+---
+Add Description
+
