@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "DPCATCH"
+  title: "DPCATCH Homepage"
   navbar:
     left:
       - href: index.qmd
