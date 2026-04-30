@@ -1,5 +1,5 @@
 ---
-title: "DPCATCH"
+title: "DPCATCH Homepage"
 subtitle: "SWISS LISA Data Processing Center"
 image: foto.jpg
 about:
