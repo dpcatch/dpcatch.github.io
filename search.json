@@ -1,47 +1,5 @@
 [
   {
-    "objectID": "people/radisch-maria.html",
-    "href": "people/radisch-maria.html",
-    "title": "Radisch, Maria",
-    "section": "",
-    "text": "Add Description"
-  },
-  {
-    "objectID": "people/grimm-simon.html",
-    "href": "people/grimm-simon.html",
-    "title": "Grimm, Simon, Dr.",
-    "section": "",
-    "text": "Add Description"
-  },
-  {
-    "objectID": "people/giarda-giovanni.html",
-    "href": "people/giarda-giovanni.html",
-    "title": "Giarda, Giovanni",
-    "section": "",
-    "text": "Add Description"
-  },
-  {
-    "objectID": "people/bhardwaj-uddipta.html",
-    "href": "people/bhardwaj-uddipta.html",
-    "title": "Bhardwaj, Uddipta, Dr.",
-    "section": "",
-    "text": "Add Description"
-  },
-  {
-    "objectID": "people/houba-niklas.html",
-    "href": "people/houba-niklas.html",
-    "title": "Houba, Niklas, Dr.",
-    "section": "",
-    "text": "Add Description"
-  },
-  {
-    "objectID": "software.html#other-codes",
-    "href": "software.html#other-codes",
-    "title": "Used Software",
-    "section": "Other Codes",
-    "text": "Other Codes\n\nGeemoo\nhttps://arxiv.org/abs/2501.10277\n\n\nErebor\nhttps://arxiv.org/abs/2405.04690\n\n\nGlass\nhttps://arxiv.org/abs/2301.03673\n\n\nStefan’s code\nhttps://arxiv.org/pdf/2403.15318\nhttps://github.com/stefanstrub/GlobalGB\nAuthor: Stefan Strub"
-  },
-  {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publikationen",
@@ -61,13 +19,6 @@
     "title": "Publikationen",
     "section": "2023",
     "text": "2023\nMustermann, M. (2023). Noch ein Paper-Titel. Proceedings of ACL 2023."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "DPCATCH",
-    "section": "",
-    "text": "Add text"
   },
   {
     "objectID": "research.html",
@@ -105,9 +56,37 @@
     "text": "People A-Z\n\n\n\n\n\n\n\n\n\n\nBadaracco, Giada\n\n\nPhD student\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBhardwaj, Uddipta, Dr.\n\n\nPostdoc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGiarda, Giovanni\n\n\nPhD student\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGrimm, Simon, Dr.\n\n\nSoftware Engineer\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHouba, Niklas, Dr.\n\n\nPostdoc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMeyers, Patrick Michael, Dr.\n\n\nPostdoc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRadisch, Maria\n\n\nStudent\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRenzini, Arianna, Dr.\n\n\nDirector\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVallisneri, Michele, Prof.Dr.\n\n\nGroup Leader\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVinzens, Claudia\n\n\nAdministration\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
+    "objectID": "people/vallisneri-michele.html",
+    "href": "people/vallisneri-michele.html",
+    "title": "Vallisneri, Michele, Prof.Dr.",
+    "section": "",
+    "text": "Add Description"
+  },
+  {
+    "objectID": "people/giarda-giovanni.html",
+    "href": "people/giarda-giovanni.html",
+    "title": "Giarda, Giovanni",
+    "section": "",
+    "text": "Add Description"
+  },
+  {
+    "objectID": "people/houba-niklas.html",
+    "href": "people/houba-niklas.html",
+    "title": "Houba, Niklas, Dr.",
+    "section": "",
+    "text": "Add Description"
+  },
+  {
     "objectID": "people/renzini-arianna.html",
     "href": "people/renzini-arianna.html",
     "title": "Renzini, Arianna, Dr.",
+    "section": "",
+    "text": "Add Description"
+  },
+  {
+    "objectID": "people/grimm-simon.html",
+    "href": "people/grimm-simon.html",
+    "title": "Grimm, Simon, Dr.",
     "section": "",
     "text": "Add Description"
   },
@@ -119,6 +98,13 @@
     "text": "Add Description"
   },
   {
+    "objectID": "people/meyers-patrick-michael.html",
+    "href": "people/meyers-patrick-michael.html",
+    "title": "Meyers, Patrick Michael, Dr.",
+    "section": "",
+    "text": "Add Description"
+  },
+  {
     "objectID": "people/vinzens-claudia.html",
     "href": "people/vinzens-claudia.html",
     "title": "Vinzens, Claudia",
@@ -126,17 +112,31 @@
     "text": "Add Description"
   },
   {
-    "objectID": "people/vallisneri-michele.html",
-    "href": "people/vallisneri-michele.html",
-    "title": "Vallisneri, Michele, Prof.Dr.",
+    "objectID": "people/radisch-maria.html",
+    "href": "people/radisch-maria.html",
+    "title": "Radisch, Maria",
     "section": "",
     "text": "Add Description"
   },
   {
-    "objectID": "people/meyers-patrick-michael.html",
-    "href": "people/meyers-patrick-michael.html",
-    "title": "Meyers, Patrick Michael, Dr.",
+    "objectID": "people/bhardwaj-uddipta.html",
+    "href": "people/bhardwaj-uddipta.html",
+    "title": "Bhardwaj, Uddipta, Dr.",
     "section": "",
     "text": "Add Description"
+  },
+  {
+    "objectID": "software.html#other-codes",
+    "href": "software.html#other-codes",
+    "title": "Used Software",
+    "section": "Other Codes",
+    "text": "Other Codes\n\nGeemoo\nhttps://arxiv.org/abs/2501.10277\n\n\nErebor\nhttps://arxiv.org/abs/2405.04690\n\n\nGlass\nhttps://arxiv.org/abs/2301.03673\n\n\nStefan’s code\nhttps://arxiv.org/pdf/2403.15318\nhttps://github.com/stefanstrub/GlobalGB\nAuthor: Stefan Strub"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "DPCATCH",
+    "section": "",
+    "text": "Add text"
   }
 ]
