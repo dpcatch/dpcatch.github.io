@@ -1,0 +1,22 @@
+---
+title: "Piras, Davide, Dr."
+description: "Software Engineer"
+image: Portrait_Placeholder.png
+categories: [staff, all]
+about:
+  template: jolla
+  image-shape: round
+  links:
+    #see a list of available icons here: https://icons.getbootstrap.com/
+    - icon: envelope-at
+      text: Email
+      href: mailto:dpiras@ethz.ch 
+    - icon: github
+      text: Github
+      href: https://github.com/
+    - icon: github
+      text: homepage
+      href: "#" 
+---
+Add Description
+
