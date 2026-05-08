@@ -39,21 +39,35 @@
     "href": "people.html",
     "title": "Team",
     "section": "",
-    "text": "Group Leader\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Group Leader\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDirector\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "people.html#group-leader",
-    "href": "people.html#group-leader",
+    "objectID": "people.html#group-lead",
+    "href": "people.html#group-lead",
     "title": "Team",
     "section": "",
     "text": "Group Leader\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "people.html#people-a-z",
-    "href": "people.html#people-a-z",
+    "objectID": "people.html#managing-director",
+    "href": "people.html#managing-director",
     "title": "Team",
-    "section": "People A-Z",
-    "text": "People A-Z\n\n\n\n\n\n\n\n\n\n\nBadaracco, Giada\n\n\nPhD student\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBhardwaj, Uddipta, Dr.\n\n\nPostdoc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGiarda, Giovanni\n\n\nPhD student\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGrimm, Simon, Dr.\n\n\nSoftware Engineer\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHouba, Niklas, Dr.\n\n\nPostdoc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMeyers, Patrick Michael, Dr.\n\n\nPostdoc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRadisch, Maria\n\n\nStudent\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRenzini, Arianna, Dr.\n\n\nDirector\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVallisneri, Michele, Prof.Dr.\n\n\nGroup Leader\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVinzens, Claudia\n\n\nAdministration\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "section": "",
+    "text": "Director\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "people.html#staff",
+    "href": "people.html#staff",
+    "title": "Team",
+    "section": "Staff",
+    "text": "Staff\n\n\n\n\n\n\n\n\n\n\nGrimm, Simon, Dr.\n\n\nSoftware Engineer\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPiras, Davide, Dr.\n\n\nSoftware Engineer\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "people.html#researchers",
+    "href": "people.html#researchers",
+    "title": "Team",
+    "section": "Researchers",
+    "text": "Researchers"
   },
   {
     "objectID": "people/vallisneri-michele.html",
@@ -77,9 +91,16 @@
     "text": "Add Description"
   },
   {
-    "objectID": "people/renzini-arianna.html",
-    "href": "people/renzini-arianna.html",
-    "title": "Renzini, Arianna, Dr.",
+    "objectID": "people/piras-davide.html",
+    "href": "people/piras-davide.html",
+    "title": "Piras, Davide, Dr.",
+    "section": "",
+    "text": "Add Description"
+  },
+  {
+    "objectID": "people/badaracco-giada.html",
+    "href": "people/badaracco-giada.html",
+    "title": "Badaracco, Giada",
     "section": "",
     "text": "Add Description"
   },
@@ -91,9 +112,9 @@
     "text": "Add Description"
   },
   {
-    "objectID": "people/badaracco-giada.html",
-    "href": "people/badaracco-giada.html",
-    "title": "Badaracco, Giada",
+    "objectID": "people/renzini-arianna.html",
+    "href": "people/renzini-arianna.html",
+    "title": "Renzini, Arianna, Dr.",
     "section": "",
     "text": "Add Description"
   },
@@ -135,7 +156,7 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "DPCATCH Homepage",
+    "title": "DPCATCH",
     "section": "",
     "text": "Add text"
   }
