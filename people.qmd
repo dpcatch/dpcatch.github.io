@@ -1,36 +1,62 @@
 ---
 title: "Team"
 listing:
-  - id: pi
+  - id: head
     contents: people/*.qmd
     type: default
     filter-ui: false
     sort-ui: false
     include:
-      categories: [pi]
-
-  - id: all
+      categories: [head]
+ 
+  - id: director
+    contents: people/*.qmd
+    type: default
+    filter-ui: false
+    sort-ui: false
+    include:
+      categories: [director]
+ 
+  - id: staff
     contents: people/*.qmd
     type: grid
     filter-ui: false
     sort-ui: false
     include:
-      categories: [all]
-
-  - id: phd
+      categories: [staff]
+ 
+  - id: researchers
     contents: people/*.qmd
     type: default
     filter-ui: false
     sort-ui: false
     include:
-      categories: [phd]
+      categories: [research]
 ---
-
-## Group Leader
-::: {#pi}
+ 
+:::: {.columns}
+ 
+::: {.column width="48%"}
+## Group Lead
+::: {#head}
+:::
+:::
+ 
+::: {.column width="4%"}
+:::
+ 
+::: {.column width="48%"}
+## Managing Director
+::: {#director}
+:::
+:::
+ 
+::::
+ 
+## Staff
+::: {#staff}
 :::
 
-## People A-Z
-::: {#all}
+## Researchers
+::: {#research}
 :::
-

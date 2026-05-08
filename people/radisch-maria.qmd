@@ -2,7 +2,7 @@
 title: "Radisch, Maria"			#add name and title here
 description: "Student"				#Postdoc, PhD student, ...
 image: Portrait_Placeholder.png			#insert link to image
-categories: [all]				#pi | all
+categories: [research, all]				#pi | all
 about:
   template: jolla
   image-shape: round

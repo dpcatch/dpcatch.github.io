@@ -2,7 +2,7 @@
 title: "Vallisneri, Michele, Prof.Dr."		#add name and title here
 description: "Group Leader"			#Postdoc, PhD student, ...
 image: Portrait_Placeholder.png			#insert link to image
-categories: [pi, all]				#pi | all
+categories: [head, all]				#pi | all
 about:
   template: jolla
   image-shape: round

@@ -2,7 +2,7 @@
 title: "Renzini, Arianna, Dr."			#add name and title here
 description: "Director"				#Postdoc, PhD student, ...
 image: Portrait_Placeholder.png			#insert link to image
-categories: [all]				#pi | all
+categories: [director, all]				#pi | all
 about:
   template: jolla
   image-shape: round
