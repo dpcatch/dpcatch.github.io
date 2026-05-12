@@ -12,16 +12,16 @@ To build the homepage, quarto needs to be installed.
 
 ### Live preview
 
-        run::
+run:
 
         quarto preview
 
-This opens the rendered homepate.
+This opens the rendered homepage.
 
 
 ### Render locally
 
-        run::
+run:
 
         quarto render
 
