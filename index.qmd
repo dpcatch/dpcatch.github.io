@@ -11,7 +11,7 @@ about:
       href: mailto:max@uni-beispiel.de
     - icon: github
       text: GitHub
-      href: https://github.com/maxmuster
+      href: https://github.com/dpcatch
     - icon: mortarboard
       text: Google Scholar
       href: https://scholar.google.com
