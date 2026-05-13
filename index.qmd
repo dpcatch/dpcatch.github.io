@@ -19,8 +19,8 @@ about:
 
 <!-- Reminder: do we wanto add a Contact section, maybe with address and someone's email? -->
 
-<iframe src="matterhorn_orbit.html" width="1500" height="600"
+<iframe src="matterhorn_orbit.html" width="1500" height="700"
         style="border:none; display:block; margin:auto;">
 </iframe>
 
-Add text
+Page under construction.
