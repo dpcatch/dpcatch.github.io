@@ -1,7 +1,7 @@
 ---
 title: "Piras, Davide, Dr."
 description: "Software Engineer"
-image: Portrait_Placeholder.png
+image: https://raw.githubusercontent.com/dpiras/dpiras.github.io/master/assets/images/propic.jpeg
 categories: [staff, all]
 about:
   template: jolla
