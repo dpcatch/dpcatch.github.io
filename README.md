@@ -7,7 +7,7 @@ The website is built with quarto.
 
 ## Build locally
 
-To build the homepage, quarto needs to be installed.
+To build the homepage, quarto needs to be [installed](https://quarto.org/docs/get-started/).
 
 
 ### Live preview
