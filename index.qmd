@@ -6,7 +6,6 @@ about:
   template: jolla
   image-shape: rectangle
   links:
-  <!-- Reminder: do we wanto add a Contact section, maybe with address and someone's email? -->
     - icon: envelope
       text: Contacts 
       href: https://dpcatch.github.io/people.html
@@ -17,6 +16,8 @@ about:
       text: Publications
       href: https://dpcatch.github.io/publications.html
 ---
+
+<!-- Reminder: do we wanto add a Contact section, maybe with address and someone's email? -->
 
 <iframe src="matterhorn_orbit.html" width="1500" height="600"
         style="border:none; display:block; margin:auto;">
