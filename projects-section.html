@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Mono:wght@400;500&family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,500;1,9..40,300&display=swap" rel="stylesheet">
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    background: transparent;
+    font-family: 'DM Sans', sans-serif;
+    padding: 1rem 0;
+  }
+
+  /* About block */
+  .about-block {
+    margin-bottom: 3.2rem;
+    padding: 2.4rem 2.8rem;
+    background: #ffffff;
+    border-left: 3px solid #2a4a6b;
+    box-shadow: 4px 4px 0 #d0cfc8;
+    position: relative;
+  }
+
+  .about-block::before {
+    content: 'ABOUT US';
+    font-family: 'DM Mono', monospace;
+    font-size: 0.65rem;
+    letter-spacing: 0.18em;
+    color: #2a4a6b;
+    display: block;
+    margin-bottom: 0.9rem;
+    opacity: 0.7;
+  }
+
+  .about-block p {
+    font-size: 1.05rem;
+    line-height: 1.75;
+    color: #2c2c2c;
+    font-weight: 300;
+  }
+
+  .about-block p strong {
+    font-weight: 500;
+    color: #2a4a6b;
+  }
+
+  /* Section label */
+  .projects-label {
+    font-family: 'DM Mono', monospace;
+    font-size: 0.65rem;
+    letter-spacing: 0.18em;
+    color: #2a4a6b;
+    opacity: 0.7;
+    margin-bottom: 1.2rem;
+    text-transform: uppercase;
+  }
+
+  /* Grid */
+  .project-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.25rem;
+  }
+
+  /* Card */
+  .project-card {
+    position: relative;
+    display: block;
+    background: #ffffff;
+    overflow: hidden;
+    box-shadow: 3px 3px 0 #c8c7bf;
+    border: 1px solid #e0dfd8;
+    transition: transform 0.18s ease, box-shadow 0.18s ease;
+    cursor: pointer;
+    aspect-ratio: 4 / 3;
+  }
+
+  .project-card:hover {
+    transform: translate(-3px, -3px);
+    box-shadow: 6px 6px 0 #2a4a6b;
+  }
+
+  /* Image */
+  .card-img {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.4s ease, filter 0.3s ease;
+    filter: grayscale(20%) brightness(0.88);
+  }
+
+  .project-card:hover .card-img {
+    transform: scale(1.06);
+    filter: grayscale(0%) brightness(0.75);
+  }
+
+  /* Gradient overlay */
+  .card-overlay {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(160deg, transparent 30%, rgba(20, 35, 55, 0.72) 100%);
+    transition: background 0.3s ease;
+  }
+
+  .project-card:hover .card-overlay {
+    background: linear-gradient(160deg, rgba(20, 35, 55, 0.15) 0%, rgba(20, 35, 55, 0.82) 100%);
+  }
+
+  /* Card text */
+  .card-body {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 1rem 1.1rem 0.9rem;
+  }
+
+  .card-tag {
+    font-family: 'DM Mono', monospace;
+    font-size: 0.55rem;
+    letter-spacing: 0.14em;
+    color: #a8c8e8;
+    display: block;
+    margin-bottom: 0.25rem;
+    text-transform: uppercase;
+  }
+
+  .card-title {
+    font-family: 'DM Serif Display', serif;
+    font-size: 1.05rem;
+    line-height: 1.25;
+    color: #ffffff;
+  }
+
+  /* Arrow */
+  .card-arrow {
+    position: absolute;
+    top: 0.85rem;
+    right: 0.9rem;
+    width: 28px;
+    height: 28px;
+    border: 1.5px solid rgba(255, 255, 255, 0.35);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    transform: scale(0.8);
+    transition: opacity 0.2s ease, transform 0.2s ease;
+  }
+
+  .card-arrow svg {
+    width: 12px;
+    height: 12px;
+    stroke: #ffffff;
+    fill: none;
+    stroke-width: 2;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+  }
+
+  .project-card:hover .card-arrow {
+    opacity: 1;
+    transform: scale(1);
+  }
+
+  /* Responsive */
+  @media (max-width: 640px) {
+    .project-grid { grid-template-columns: repeat(2, 1fr); }
+  }
+  @media (max-width: 420px) {
+    .project-grid { grid-template-columns: 1fr; }
+    .about-block { padding: 1.6rem; }
+  }
+</style>
+</head>
+<body>
+
+  <div class="about-block">
+    <p>The <strong>DPCATCH Data Center</strong> is a research infrastructure dedicated to the
+    long-term archiving, curation, and open dissemination of high-alpine environmental data.
+    We develop tools and workflows that bridge fieldwork, remote sensing, and model-based
+    analysis — making complex datasets accessible to researchers, practitioners, and the
+    broader scientific community. Based at SWISS LISA, our work spans cryosphere monitoring,
+    atmospheric sciences, and integrated Earth system analysis.</p>
+  </div>
+
+  <p class="projects-label">OUR PROJECTS</p>
+
+  <div class="project-grid">
+
+    <div class="project-card" onclick="window.parent.location='https://github.com/nhouba/slotflow-inference'">
+      <img class="card-img" src="images/slotflow-icon.jpg" alt="Project 1">
+      <div class="card-overlay"></div>
+      <div class="card-body">
+        <span class="card-tag">Machine Learning</span>
+        <span class="card-title">SlotFlow</span>
+      </div>
+      <div class="card-arrow">
+        <svg viewBox="0 0 24 24"><path d="M7 17L17 7M17 7H7M17 7v10"/></svg>
+      </div>
+    </div>
+
+    <div class="project-card" onclick="window.parent.location='https://github.com/dpcatch/GBconfusion'">
+      <img class="card-img" src="images/GBconfusion-icon.png" alt="Project 2">
+      <div class="card-overlay"></div>
+      <div class="card-body">
+        <span class="card-tag">Galactic Binaries</span>
+        <span class="card-title">GBconfusion</span>
+      </div>
+      <div class="card-arrow">
+        <svg viewBox="0 0 24 24"><path d="M7 17L17 7M17 7H7M17 7v10"/></svg>
+      </div>
+    </div>
+
+    <div class="project-card" onclick="window.parent.location='https://github.com/dpcatch/HBGB'">
+      <img class="card-img" src="images/hbgb-icon.png" alt="Project 3">
+      <div class="card-overlay"></div>
+      <div class="card-body">
+        <span class="card-tag">Galactic Binaries</span>
+        <span class="card-title">HeeBeeGeeBee</span>
+      </div>
+      <div class="card-arrow">
+        <svg viewBox="0 0 24 24"><path d="M7 17L17 7M17 7H7M17 7v10"/></svg>
+      </div>
+    </div>
+
+    <div class="project-card" onclick="window.parent.location='projects/project4.html'">
+      <img class="card-img" src="images/project4.png" alt="Project 4">
+      <div class="card-overlay"></div>
+      <div class="card-body">
+        <span class="card-tag">Hydrology</span>
+        <span class="card-title">Snowmelt Runoff Models</span>
+      </div>
+      <div class="card-arrow">
+        <svg viewBox="0 0 24 24"><path d="M7 17L17 7M17 7H7M17 7v10"/></svg>
+      </div>
+    </div>
+
+    <div class="project-card" onclick="window.parent.location='projects/project5.html'">
+      <img class="card-img" src="images/project5.png" alt="Project 5">
+      <div class="card-overlay"></div>
+      <div class="card-body">
+        <span class="card-tag">Data Infrastructure</span>
+        <span class="card-title">Open Archive Platform</span>
+      </div>
+      <div class="card-arrow">
+        <svg viewBox="0 0 24 24"><path d="M7 17L17 7M17 7H7M17 7v10"/></svg>
+      </div>
+    </div>
+
+    <div class="project-card" onclick="window.parent.location='projects/project6.html'">
+      <img class="card-img" src="images/project6.png" alt="Project 6">
+      <div class="card-overlay"></div>
+      <div class="card-body">
+        <span class="card-tag">Ecology</span>
+        <span class="card-title">High-Alpine Biodiversity</span>
+      </div>
+      <div class="card-arrow">
+        <svg viewBox="0 0 24 24"><path d="M7 17L17 7M17 7H7M17 7v10"/></svg>
+      </div>
+    </div>
+
+  </div>
+
+</body>
+</html>

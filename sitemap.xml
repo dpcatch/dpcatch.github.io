@@ -1,67 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://dpcatch.github.io/publications.html</loc>
-    <lastmod>2026-05-13T14:39:08.409Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dpcatch.github.io/research.html</loc>
-    <lastmod>2026-05-13T14:39:08.409Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dpcatch.github.io/people.html</loc>
-    <lastmod>2026-05-13T14:39:08.408Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dpcatch.github.io/people/vallisneri-michele.html</loc>
-    <lastmod>2026-05-13T14:39:08.409Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dpcatch.github.io/people/giarda-giovanni.html</loc>
-    <lastmod>2026-05-13T14:39:08.409Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dpcatch.github.io/people/houba-niklas.html</loc>
-    <lastmod>2026-05-13T14:39:08.409Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dpcatch.github.io/people/piras-davide.html</loc>
-    <lastmod>2026-05-13T14:39:08.409Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dpcatch.github.io/people/badaracco-giada.html</loc>
-    <lastmod>2026-05-13T14:39:08.409Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dpcatch.github.io/people/grimm-simon.html</loc>
-    <lastmod>2026-05-13T14:39:08.409Z</lastmod>
-  </url>
-  <url>
     <loc>https://dpcatch.github.io/people/renzini-arianna.html</loc>
-    <lastmod>2026-05-13T14:39:08.409Z</lastmod>
+    <lastmod>2026-05-28T16:16:25.704Z</lastmod>
   </url>
   <url>
     <loc>https://dpcatch.github.io/people/meyers-patrick-michael.html</loc>
-    <lastmod>2026-05-13T14:39:08.409Z</lastmod>
+    <lastmod>2026-05-28T16:16:25.704Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dpcatch.github.io/people/badaracco-giada.html</loc>
+    <lastmod>2026-05-28T16:16:25.704Z</lastmod>
   </url>
   <url>
     <loc>https://dpcatch.github.io/people/vinzens-claudia.html</loc>
-    <lastmod>2026-05-13T14:39:08.409Z</lastmod>
+    <lastmod>2026-05-28T16:16:25.704Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dpcatch.github.io/people/piras-davide.html</loc>
+    <lastmod>2026-05-28T16:16:25.704Z</lastmod>
   </url>
   <url>
     <loc>https://dpcatch.github.io/people/radisch-maria.html</loc>
-    <lastmod>2026-05-13T14:39:08.409Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dpcatch.github.io/people/bhardwaj-uddipta.html</loc>
-    <lastmod>2026-05-13T14:39:08.409Z</lastmod>
-  </url>
-  <url>
-    <loc>https://dpcatch.github.io/software.html</loc>
-    <lastmod>2026-05-13T14:39:08.409Z</lastmod>
+    <lastmod>2026-05-28T16:16:25.704Z</lastmod>
   </url>
   <url>
     <loc>https://dpcatch.github.io/index.html</loc>
-    <lastmod>2026-05-13T14:39:08.401Z</lastmod>
+    <lastmod>2026-05-28T16:16:25.697Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dpcatch.github.io/research.html</loc>
+    <lastmod>2026-05-28T16:16:25.704Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dpcatch.github.io/people.html</loc>
+    <lastmod>2026-05-28T16:16:25.703Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dpcatch.github.io/publications.html</loc>
+    <lastmod>2026-05-28T16:16:25.704Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dpcatch.github.io/software.html</loc>
+    <lastmod>2026-05-28T16:16:25.704Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dpcatch.github.io/people/bhardwaj-uddipta.html</loc>
+    <lastmod>2026-05-28T16:16:25.704Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dpcatch.github.io/people/vallisneri-michele.html</loc>
+    <lastmod>2026-05-28T16:16:25.704Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dpcatch.github.io/people/grimm-simon.html</loc>
+    <lastmod>2026-05-28T16:16:25.704Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dpcatch.github.io/people/houba-niklas.html</loc>
+    <lastmod>2026-05-28T16:16:25.704Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dpcatch.github.io/people/giarda-giovanni.html</loc>
+    <lastmod>2026-05-28T16:16:25.704Z</lastmod>
   </url>
 </urlset>
