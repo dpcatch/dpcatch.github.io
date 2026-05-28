@@ -1,6 +1,9 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - images/
+    - projects-section.html
 
 website:
   title: "DPCATCH"
@@ -20,4 +23,5 @@ website:
 format:
   html:
     theme: cosmo
+    css: dpcatch.css
     toc: true

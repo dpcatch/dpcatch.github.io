@@ -17,8 +17,11 @@ about:
       href: https://scholar.google.com
 ---
 
+<iframe src="projects-section.html" width="100%" height="800"
+        style="border:none; display:block; margin:auto;">
+</iframe>
+
 <iframe src="matterhorn_orbit.html" width="1500" height="600"
         style="border:none; display:block; margin:auto;">
 </iframe>
 
-Add text
