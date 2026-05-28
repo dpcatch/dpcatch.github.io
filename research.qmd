@@ -8,5 +8,7 @@ of gravitational wave sources across cosmic history.
 
 
 
-## Lisa space mission
-
+## LISA space mission
+The Laser Interferometer Space Antenna (LISA) mission is a next-generation space observatory designed to detect gravitational waves from massive cosmic events across the universe.
+Using three spacecraft separated by millions of kilometers, LISA will measure tiny distortions in spacetime with unprecedented precision.
+Led by the European Space Agency in collaboration with NASA, the mission will open a new window into black holes, galaxy formation, and fundamental physics.

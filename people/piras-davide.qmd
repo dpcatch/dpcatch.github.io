@@ -1,7 +1,7 @@
 ---
 title: "Piras, Davide, Dr."
 description: "Software Engineer"
-image: Portrait_Placeholder.png
+image: https://raw.githubusercontent.com/dpiras/dpiras.github.io/master/assets/images/propic.jpeg
 categories: [staff, all]
 about:
   template: jolla
@@ -13,10 +13,10 @@ about:
       href: mailto:dpiras@ethz.ch 
     - icon: github
       text: Github
-      href: https://github.com/
+      href: https://github.com/dpiras
     - icon: github
       text: homepage
-      href: "#" 
+      href: https://dpiras.github.io/
 ---
-Add Description
+After obtaining his PhD from the interdisciplinary Centre for Doctoral Training in Data Intensive Science at UCL, Davide was a Research Fellow in the CosmoParticle initiative, and then a postdoctoral researcher at the University of Geneva working at the intersection of ML and theoretical physics. In 2026, he joined the ETHZ Space Centre to continue working on the development of ML algorithms for space missions like LISA.
 
