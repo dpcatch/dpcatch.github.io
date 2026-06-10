@@ -1,6 +1,6 @@
 ---
 title: "Radisch, Maria"			#add name and title here
-description: "Student"				#Postdoc, PhD student, ...
+description: "PhD student"				#Postdoc, PhD student, ...
 image: Portrait_Placeholder.png			#insert link to image
 categories: [research, all]				#pi | all
 about:
