@@ -1,7 +1,7 @@
 ---
 title: "Giarda, Giovanni"			#add name and title here
 description: "PhD student"				#Postdoc, PhD student, ...
-image: Portrait_Placeholder.png			#insert link to image
+image: images/giovanni-giarda.jpg			#insert link to image
 categories: [research, all]				#pi | all
 about:
   template: jolla

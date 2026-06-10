@@ -1,7 +1,7 @@
 ---
 title: "Grimm, Simon, Dr."
 description: "Software Engineer"
-image: Portrait_Placeholder.png
+image: images/simon-grimm.jpg
 categories: [staff, all]
 about:
   template: jolla

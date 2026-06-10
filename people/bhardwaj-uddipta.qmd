@@ -1,7 +1,7 @@
 ---
 title: "Bhardwaj, Uddipta, Dr."			#add name and title here
 description: "Postdoc"				#Postdoc, PhD student, ...
-image: Portrait_Placeholder.png			#insert link to image
+image: images/uddipta-bhardwaj.jpg			#insert link to image
 categories: [research, all]				#pi | all
 about:
   template: jolla
