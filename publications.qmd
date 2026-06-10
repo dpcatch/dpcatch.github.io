@@ -7,7 +7,7 @@ title: "Publications"
 
 ## 2025
 
-Niklas Houba, Giovanni Giarda, Lorenzo Speri. SlotFlow: Amortized Trans-Dimensional Inference with Slot-Based Normalizing Flows.
+**Niklas Houba**, **Giovanni Giarda**, Lorenzo Speri. SlotFlow: Amortized Trans-Dimensional Inference with Slot-Based Normalizing Flows.
 arXiv:2511.23228
 [PDF](https://arxiv.org/pdf/2511.23228) | [Code](https://github.com/nhouba/slotflow-inference)
 
