@@ -7,11 +7,16 @@ title: "Publications"
 
 ## 2025
 
-Houba N., Giarda G., Speri L. (2025). SlotFlow: Amortized Trans-Dimensional Inference with Slot-Based Normalizing Flows.
+Niklas Houba, Giovanni Giarda, Lorenzo Speri. SlotFlow: Amortized Trans-Dimensional Inference with Slot-Based Normalizing Flows.
 arXiv:2511.23228
 [PDF](https://arxiv.org/pdf/2511.23228) | [Code](https://github.com/nhouba/slotflow-inference)
 
 
 ## 2024
+
+**Stefan H. Strub**, Luigi Ferraioli, Cédric Schmelzbach, Simon C. Stähler, Domenico Giardini. Global Analysis of LISA Data with Galactic Binaries and Massive Black Hole Binaries.
+Phys. Rev. D., 110, 2
+[PDF](https://arxiv.org/pdf/2403.15318) | [Code](https://github.com/stefanstrub/GlobalGB)
+
 
 ## 2023
