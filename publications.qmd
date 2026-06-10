@@ -1,14 +1,17 @@
 ---
-title: "Publikationen"
+title: "Publications"
 ---
+
+## 2026 
+
+
+## 2025
+
+Houba N., Giarda G., Speri L. (2025). SlotFlow: Amortized Trans-Dimensional Inference with Slot-Based Normalizing Flows.
+arXiv:2511.23228
+[PDF](https://arxiv.org/pdf/2511.23228) | [Code](https://github.com/nhouba/slotflow-inference)
+
 
 ## 2024
 
-**Mustermann, M.**, & Kollegin, A. (2024). Titel des Papers.
-*Journal of NLP Research*, 12(3), 45–67.
-[PDF](link) | [Code](link)
-
 ## 2023
-
-**Mustermann, M.** (2023). Noch ein Paper-Titel.
-*Proceedings of ACL 2023*.
