@@ -14,30 +14,44 @@
     "text": "Add Description"
   },
   {
-    "objectID": "people/badaracco-giada.html",
-    "href": "people/badaracco-giada.html",
-    "title": "Badaracco, Giada",
+    "objectID": "people/houba-niklas.html",
+    "href": "people/houba-niklas.html",
+    "title": "Houba, Niklas, Dr.",
     "section": "",
     "text": "Add Description"
   },
   {
-    "objectID": "people/vinzens-claudia.html",
-    "href": "people/vinzens-claudia.html",
-    "title": "Vinzens, Claudia",
+    "objectID": "people/grimm-simon.html",
+    "href": "people/grimm-simon.html",
+    "title": "Grimm, Simon, Dr.",
+    "section": "",
+    "text": "Dr. Simon Grimm obtained his PhD in 2015 from the Institute for Computational Science at the University of Zürich, Switzerland, specializing in the development of high-performance computational methods for astrophysics.\nFollowing his doctoral studies, he served as a Senior Researcher (Oberassistent) at the Center for Space and Habitability at the University of Bern, where he also contributed his expertise as a GPU computing specialist for the university-wide supercomputing team, UBELIX. From 2023 to 2026, Simon continued his research as a Senior Researcher, splitting his time between the Exoplanetary Interiors group at ETH Zürich and the Planet Formation group at the University of Zürich.\nIn 2026, Simon joined the ETH Zürich Space Hub as a Software Engineer, where he is currently part of the Swiss LISA Data Processing Center. He is the lead author of several widely used simulation codes, including GENGA (a GPU-accelerated N-body integrator for planetary dynamics) and HELIOS-K (a high-performance opacity calculator for exoplanetary atmospheres)."
+  },
+  {
+    "objectID": "people/vallisneri-michele.html",
+    "href": "people/vallisneri-michele.html",
+    "title": "Vallisneri, Michele, Prof.Dr.",
     "section": "",
     "text": "Add Description"
   },
   {
-    "objectID": "people/piras-davide.html",
-    "href": "people/piras-davide.html",
-    "title": "Piras, Davide, Dr.",
+    "objectID": "people/tiwari-shubhanshu.html",
+    "href": "people/tiwari-shubhanshu.html",
+    "title": "Tiwari, Shubhanshu, Dr.",
     "section": "",
-    "text": "After obtaining his PhD from the interdisciplinary Centre for Doctoral Training in Data Intensive Science at UCL, Davide was a Research Fellow in the CosmoParticle initiative, and then a postdoctoral researcher at the University of Geneva working at the intersection of ML and theoretical physics. In 2026, he joined the ETHZ Space Centre to continue working on the development of ML algorithms for space missions like LISA."
+    "text": "Add Description"
   },
   {
     "objectID": "people/radisch-maria.html",
     "href": "people/radisch-maria.html",
     "title": "Radisch, Maria",
+    "section": "",
+    "text": "Add Description"
+  },
+  {
+    "objectID": "people/robertsson-johan.html",
+    "href": "people/robertsson-johan.html",
+    "title": "Robertsson, Johan, Prof.Dr.",
     "section": "",
     "text": "Add Description"
   },
@@ -60,7 +74,7 @@
     "href": "people.html",
     "title": "Team",
     "section": "",
-    "text": "Group Leader\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDirector\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Group Leader\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "people.html#group-lead",
@@ -73,15 +87,22 @@
     "objectID": "people.html#managing-director",
     "href": "people.html#managing-director",
     "title": "Team",
-    "section": "",
-    "text": "Director\n\n\n\n\n\n\n\n\nNo matching items"
+    "section": "Managing Director",
+    "text": "Managing Director\n\n\n\n\n\n\n\n\n\n\nRenzini, Arianna, Dr.\n\n\nDirector\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "people.html#staff",
     "href": "people.html#staff",
     "title": "Team",
     "section": "Staff",
-    "text": "Staff\n\n\n\n\n\n\n\n\n\n\nGrimm, Simon, Dr.\n\n\nSoftware Engineer\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPiras, Davide, Dr.\n\n\nSoftware Engineer\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Staff\n\n\n\n\n\n\n\n\n\n\nGrimm, Simon, Dr.\n\n\nSoftware Engineer\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPiras, Davide, Dr.\n\n\nSoftware Engineer\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "people.html#collaborators",
+    "href": "people.html#collaborators",
+    "title": "Team",
+    "section": "Collaborators",
+    "text": "Collaborators\n\n\n\n\n\n\n\n\n\n\nGiardini, Domenico, Prof.Dr.\n\n\nCollaborator\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRobertsson, Johan, Prof.Dr.\n\n\nCollaborator\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "people.html#researchers",
@@ -91,25 +112,25 @@
     "text": "Researchers"
   },
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publikationen",
-    "section": "",
-    "text": "Mustermann, M., & Kollegin, A. (2024). Titel des Papers. Journal of NLP Research, 12(3), 45–67. PDF | Code"
-  },
-  {
-    "objectID": "publications.html#section",
-    "href": "publications.html#section",
-    "title": "Publikationen",
-    "section": "",
-    "text": "Mustermann, M., & Kollegin, A. (2024). Titel des Papers. Journal of NLP Research, 12(3), 45–67. PDF | Code"
-  },
-  {
     "objectID": "publications.html#section-1",
     "href": "publications.html#section-1",
-    "title": "Publikationen",
+    "title": "Publications",
+    "section": "2025",
+    "text": "2025\nNiklas Houba, Giovanni Giarda, Lorenzo Speri. SlotFlow: Amortized Trans-Dimensional Inference with Slot-Based Normalizing Flows. arXiv:2511.23228 PDF | Code"
+  },
+  {
+    "objectID": "publications.html#section-2",
+    "href": "publications.html#section-2",
+    "title": "Publications",
+    "section": "2024",
+    "text": "2024\nStefan H. Strub, Luigi Ferraioli, Cédric Schmelzbach, Simon C. Stähler, Domenico Giardini. Global Analysis of LISA Data with Galactic Binaries and Massive Black Hole Binaries. Phys. Rev. D., 110, 2 PDF | Code"
+  },
+  {
+    "objectID": "publications.html#section-3",
+    "href": "publications.html#section-3",
+    "title": "Publications",
     "section": "2023",
-    "text": "2023\nMustermann, M. (2023). Noch ein Paper-Titel. Proceedings of ACL 2023."
+    "text": "2023"
   },
   {
     "objectID": "software.html#other-codes",
@@ -119,6 +140,13 @@
     "text": "Other Codes\n\nGeemoo\nhttps://arxiv.org/abs/2501.10277\n\n\nErebor\nhttps://arxiv.org/abs/2405.04690\n\n\nGlass\nhttps://arxiv.org/abs/2301.03673\n\n\nStefan’s code\nhttps://arxiv.org/pdf/2403.15318\nhttps://github.com/stefanstrub/GlobalGB\nAuthor: Stefan Strub"
   },
   {
+    "objectID": "people/strub-stefan.html",
+    "href": "people/strub-stefan.html",
+    "title": "Strub, Stefan, Dr.",
+    "section": "",
+    "text": "Add Description"
+  },
+  {
     "objectID": "people/bhardwaj-uddipta.html",
     "href": "people/bhardwaj-uddipta.html",
     "title": "Bhardwaj, Uddipta, Dr.",
@@ -126,23 +154,30 @@
     "text": "Add Description"
   },
   {
-    "objectID": "people/vallisneri-michele.html",
-    "href": "people/vallisneri-michele.html",
-    "title": "Vallisneri, Michele, Prof.Dr.",
+    "objectID": "people/piras-davide.html",
+    "href": "people/piras-davide.html",
+    "title": "Piras, Davide, Dr.",
+    "section": "",
+    "text": "After obtaining his PhD from the interdisciplinary Centre for Doctoral Training in Data Intensive Science at UCL, Davide was a Research Fellow in the CosmoParticle initiative, and then a postdoctoral researcher at the University of Geneva working at the intersection of ML and theoretical physics. In 2026, he joined the ETHZ Space Centre to continue working on the development of ML algorithms for space missions like LISA."
+  },
+  {
+    "objectID": "people/vinzens-claudia.html",
+    "href": "people/vinzens-claudia.html",
+    "title": "Vinzens, Claudia",
     "section": "",
     "text": "Add Description"
   },
   {
-    "objectID": "people/grimm-simon.html",
-    "href": "people/grimm-simon.html",
-    "title": "Grimm, Simon, Dr.",
+    "objectID": "people/badaracco-giada.html",
+    "href": "people/badaracco-giada.html",
+    "title": "Badaracco, Giada",
     "section": "",
-    "text": "Dr. Simon Grimm obtained his PhD in 2015 from the Institute for Computational Science at the University of Zürich, Switzerland, specializing in the development of high-performance computational methods for astrophysics.\nFollowing his doctoral studies, he served as a Senior Researcher (Oberassistent) at the Center for Space and Habitability at the University of Bern, where he also contributed his expertise as a GPU computing specialist for the university-wide supercomputing team, UBELIX. From 2023 to 2026, Simon continued his research as a Senior Researcher, splitting his time between the Exoplanetary Interiors group at ETH Zürich and the Planet Formation group at the University of Zürich.\nIn 2026, Simon joined the ETH Zürich Space Hub as a Software Engineer, where he is currently part of the Swiss LISA Data Processing Center. He is the lead author of several widely used simulation codes, including GENGA (a GPU-accelerated N-body integrator for planetary dynamics) and HELIOS-K (a high-performance opacity calculator for exoplanetary atmospheres)."
+    "text": "Add Description"
   },
   {
-    "objectID": "people/houba-niklas.html",
-    "href": "people/houba-niklas.html",
-    "title": "Houba, Niklas, Dr.",
+    "objectID": "people/giardini-domenico.html",
+    "href": "people/giardini-domenico.html",
+    "title": "Giardini, Domenico, Prof.Dr.",
     "section": "",
     "text": "Add Description"
   },
