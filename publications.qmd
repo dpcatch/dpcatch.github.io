@@ -20,7 +20,7 @@ Phys. Rev. D., 112, 2
 
 ## 2024
 
-**Niklas Houba**, Jean-Baptiste Bayle, **Michele Vallisneri**. Robust Bayesian inference with gapped LISA data using all-in-one TDI-.
+**Niklas Houba**, Jean-Baptiste Bayle, **Michele Vallisneri**. Robust Bayesian inference with gapped LISA data using all-in-one TDI-∞.
 arXiv:2412.20793
 [PDF](https://arxiv.org/pdf/2412.20793)
 
