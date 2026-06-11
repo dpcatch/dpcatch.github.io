@@ -21,5 +21,9 @@ about:
       text: homepage
       href: "#" 
 ---
-Add Description
 
+Dr. Simon Grimm obtained his PhD in 2015 from the Institute for Computational Science at the University of Zürich, Switzerland, specializing in the development of high-performance computational methods for astrophysics.
+
+Following his doctoral studies, he served as a Senior Researcher (Oberassistent) at the Center for Space and Habitability at the University of Bern, where he also contributed his expertise as a GPU computing specialist for the university-wide supercomputing team, UBELIX. From 2023 to 2026, Simon continued his research as a Senior Researcher, splitting his time between the Exoplanetary Interiors group at ETH Zürich and the Planet Formation group at the University of Zürich.
+
+In 2026, Simon joined the ETH Zürich Space Hub as a Software Engineer, where he is currently part of the Swiss LISA Data Processing Center. He is the lead author of several widely used simulation codes, including GENGA (a GPU-accelerated N-body integrator for planetary dynamics) and HELIOS-K (a high-performance opacity calculator for exoplanetary atmospheres).
