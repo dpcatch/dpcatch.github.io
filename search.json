@@ -154,25 +154,25 @@
     "text": "Add Description"
   },
   {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Niklas Houba, Giovanni Giarda, Lorenzo Speri. SlotFlow: Amortized Trans-Dimensional Inference with Slot-Based Normalizing Flows. arXiv:2511.23228 PDF | Code\nNiklas Houba. Deep source separation of overlapping gravitational-wave signals and non-stationary noise artifacts. arXiv:2503.10398 PDF\nAaron D. Johnson, Javier Roulet, Katerina Chatziioannou, Michele Vallisneri, Chris G. Trejo, Kyle A. Gersbach. PETRA: From the LISA global fit to a catalog of Galactic binaries. Phys. Rev. D., 112, 2 PDF"
+  },
+  {
+    "objectID": "publications.html#section",
+    "href": "publications.html#section",
+    "title": "Publications",
+    "section": "",
+    "text": "Niklas Houba, Giovanni Giarda, Lorenzo Speri. SlotFlow: Amortized Trans-Dimensional Inference with Slot-Based Normalizing Flows. arXiv:2511.23228 PDF | Code\nNiklas Houba. Deep source separation of overlapping gravitational-wave signals and non-stationary noise artifacts. arXiv:2503.10398 PDF\nAaron D. Johnson, Javier Roulet, Katerina Chatziioannou, Michele Vallisneri, Chris G. Trejo, Kyle A. Gersbach. PETRA: From the LISA global fit to a catalog of Galactic binaries. Phys. Rev. D., 112, 2 PDF"
+  },
+  {
     "objectID": "publications.html#section-1",
     "href": "publications.html#section-1",
     "title": "Publications",
-    "section": "2025",
-    "text": "2025\nNiklas Houba, Giovanni Giarda, Lorenzo Speri. SlotFlow: Amortized Trans-Dimensional Inference with Slot-Based Normalizing Flows. arXiv:2511.23228 PDF | Code"
-  },
-  {
-    "objectID": "publications.html#section-2",
-    "href": "publications.html#section-2",
-    "title": "Publications",
     "section": "2024",
-    "text": "2024\nStefan H. Strub, Luigi Ferraioli, Cédric Schmelzbach, Simon C. Stähler, Domenico Giardini. Global Analysis of LISA Data with Galactic Binaries and Massive Black Hole Binaries. Phys. Rev. D., 110, 2 PDF | Code"
-  },
-  {
-    "objectID": "publications.html#section-3",
-    "href": "publications.html#section-3",
-    "title": "Publications",
-    "section": "2023",
-    "text": "2023"
+    "text": "2024\nNiklas Houba, Jean-Baptiste Bayle, Michele Vallisneri. Robust Bayesian inference with gapped LISA data using all-in-one TDI-. arXiv:2412.20793 PDF\nStefan H. Strub, Luigi Ferraioli, Cédric Schmelzbach, Simon C. Stähler, Domenico Giardini. Global Analysis of LISA Data with Galactic Binaries and Massive Black Hole Binaries. Phys. Rev. D., 110, 2 PDF | Code"
   },
   {
     "objectID": "research.html",
