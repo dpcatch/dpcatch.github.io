@@ -1,5 +1,61 @@
 [
   {
+    "objectID": "people/renzini-arianna.html",
+    "href": "people/renzini-arianna.html",
+    "title": "Renzini, Arianna, Dr.",
+    "section": "",
+    "text": "Add Description"
+  },
+  {
+    "objectID": "people/meyers-patrick-michael.html",
+    "href": "people/meyers-patrick-michael.html",
+    "title": "Meyers, Patrick Michael, Dr.",
+    "section": "",
+    "text": "Add Description"
+  },
+  {
+    "objectID": "people/badaracco-giada.html",
+    "href": "people/badaracco-giada.html",
+    "title": "Badaracco, Giada",
+    "section": "",
+    "text": "Add Description"
+  },
+  {
+    "objectID": "people/vinzens-claudia.html",
+    "href": "people/vinzens-claudia.html",
+    "title": "Vinzens, Claudia",
+    "section": "",
+    "text": "Add Description"
+  },
+  {
+    "objectID": "people/piras-davide.html",
+    "href": "people/piras-davide.html",
+    "title": "Piras, Davide, Dr.",
+    "section": "",
+    "text": "After obtaining his PhD from the interdisciplinary Centre for Doctoral Training in Data Intensive Science at UCL, Davide was a Research Fellow in the CosmoParticle initiative, and then a postdoctoral researcher at the University of Geneva working at the intersection of ML and theoretical physics. In 2026, he joined the ETHZ Space Centre to continue working on the development of ML algorithms for space missions like LISA."
+  },
+  {
+    "objectID": "people/radisch-maria.html",
+    "href": "people/radisch-maria.html",
+    "title": "Radisch, Maria",
+    "section": "",
+    "text": "Add Description"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "We are committed pushing the frontier of gravitational-wave astronomy across the spectrum—combining space-based LISA observations with nanohertz pulsar timing array science, developing innovative analysis techniques across these complementary observational domains, and building a comprehensive understanding of gravitational wave sources across cosmic history."
+  },
+  {
+    "objectID": "research.html#lisa-space-mission",
+    "href": "research.html#lisa-space-mission",
+    "title": "Research",
+    "section": "LISA space mission",
+    "text": "LISA space mission\nThe Laser Interferometer Space Antenna (LISA) mission is a next-generation space observatory designed to detect gravitational waves from massive cosmic events across the universe. Using three spacecraft separated by millions of kilometers, LISA will measure tiny distortions in spacetime with unprecedented precision. Led by the European Space Agency in collaboration with NASA, the mission will open a new window into black holes, galaxy formation, and fundamental physics."
+  },
+  {
     "objectID": "people.html",
     "href": "people.html",
     "title": "Team",
@@ -35,90 +91,6 @@
     "text": "Researchers"
   },
   {
-    "objectID": "people/piras-davide.html",
-    "href": "people/piras-davide.html",
-    "title": "Piras, Davide, Dr.",
-    "section": "",
-    "text": "After obtaining his PhD from the interdisciplinary Centre for Doctoral Training in Data Intensive Science at UCL, Davide was a Research Fellow in the CosmoParticle initiative, and then a postdoctoral researcher at the University of Geneva working at the intersection of ML and theoretical physics. In 2026, he joined the ETHZ Space Centre to continue working on the development of ML algorithms for space missions like LISA."
-  },
-  {
-    "objectID": "people/radisch-maria.html",
-    "href": "people/radisch-maria.html",
-    "title": "Radisch, Maria",
-    "section": "",
-    "text": "Add Description"
-  },
-  {
-    "objectID": "people/vinzens-claudia.html",
-    "href": "people/vinzens-claudia.html",
-    "title": "Vinzens, Claudia",
-    "section": "",
-    "text": "Add Description"
-  },
-  {
-    "objectID": "people/vallisneri-michele.html",
-    "href": "people/vallisneri-michele.html",
-    "title": "Vallisneri, Michele, Prof.Dr.",
-    "section": "",
-    "text": "Add Description"
-  },
-  {
-    "objectID": "people/meyers-patrick-michael.html",
-    "href": "people/meyers-patrick-michael.html",
-    "title": "Meyers, Patrick Michael, Dr.",
-    "section": "",
-    "text": "Add Description"
-  },
-  {
-    "objectID": "people/renzini-arianna.html",
-    "href": "people/renzini-arianna.html",
-    "title": "Renzini, Arianna, Dr.",
-    "section": "",
-    "text": "Add Description"
-  },
-  {
-    "objectID": "software.html#other-codes",
-    "href": "software.html#other-codes",
-    "title": "Used Software",
-    "section": "Other Codes",
-    "text": "Other Codes\n\nGeemoo\nhttps://arxiv.org/abs/2501.10277\n\n\nErebor\nhttps://arxiv.org/abs/2405.04690\n\n\nGlass\nhttps://arxiv.org/abs/2301.03673\n\n\nStefan’s code\nhttps://arxiv.org/pdf/2403.15318\nhttps://github.com/stefanstrub/GlobalGB\nAuthor: Stefan Strub"
-  },
-  {
-    "objectID": "people/giarda-giovanni.html",
-    "href": "people/giarda-giovanni.html",
-    "title": "Giarda, Giovanni",
-    "section": "",
-    "text": "Add Description"
-  },
-  {
-    "objectID": "people/houba-niklas.html",
-    "href": "people/houba-niklas.html",
-    "title": "Houba, Niklas, Dr.",
-    "section": "",
-    "text": "Add Description"
-  },
-  {
-    "objectID": "people/bhardwaj-uddipta.html",
-    "href": "people/bhardwaj-uddipta.html",
-    "title": "Bhardwaj, Uddipta, Dr.",
-    "section": "",
-    "text": "Add Description"
-  },
-  {
-    "objectID": "people/grimm-simon.html",
-    "href": "people/grimm-simon.html",
-    "title": "Grimm, Simon, Dr.",
-    "section": "",
-    "text": "Dr. Simon Grimm obtained his PhD in 2015 from the Institute for Computational Science at the University of Zürich, Switzerland, specializing in the development of high-performance computational methods for astrophysics.\nFollowing his doctoral studies, he served as a Senior Researcher (Oberassistent) at the Center for Space and Habitability at the University of Bern, where he also contributed his expertise as a GPU computing specialist for the university-wide supercomputing team, UBELIX. From 2023 to 2026, Simon continued his research as a Senior Researcher, splitting his time between the Exoplanetary Interiors group at ETH Zürich and the Planet Formation group at the University of Zürich.\nIn 2026, Simon joined the ETH Zürich Space Hub as a Software Engineer, where he is currently part of the Swiss LISA Data Processing Center. He is the lead author of several widely used simulation codes, including GENGA (a GPU-accelerated N-body integrator for planetary dynamics) and HELIOS-K (a high-performance opacity calculator for exoplanetary atmospheres)."
-  },
-  {
-    "objectID": "people/badaracco-giada.html",
-    "href": "people/badaracco-giada.html",
-    "title": "Badaracco, Giada",
-    "section": "",
-    "text": "Add Description"
-  },
-  {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publikationen",
@@ -140,17 +112,45 @@
     "text": "2023\nMustermann, M. (2023). Noch ein Paper-Titel. Proceedings of ACL 2023."
   },
   {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
-    "section": "",
-    "text": "We are committed pushing the frontier of gravitational-wave astronomy across the spectrum—combining space-based LISA observations with nanohertz pulsar timing array science, developing innovative analysis techniques across these complementary observational domains, and building a comprehensive understanding of gravitational wave sources across cosmic history."
+    "objectID": "software.html#other-codes",
+    "href": "software.html#other-codes",
+    "title": "Used Software",
+    "section": "Other Codes",
+    "text": "Other Codes\n\nGeemoo\nhttps://arxiv.org/abs/2501.10277\n\n\nErebor\nhttps://arxiv.org/abs/2405.04690\n\n\nGlass\nhttps://arxiv.org/abs/2301.03673\n\n\nStefan’s code\nhttps://arxiv.org/pdf/2403.15318\nhttps://github.com/stefanstrub/GlobalGB\nAuthor: Stefan Strub"
   },
   {
-    "objectID": "research.html#lisa-space-mission",
-    "href": "research.html#lisa-space-mission",
-    "title": "Research",
-    "section": "LISA space mission",
-    "text": "LISA space mission\nThe Laser Interferometer Space Antenna (LISA) mission is a next-generation space observatory designed to detect gravitational waves from massive cosmic events across the universe. Using three spacecraft separated by millions of kilometers, LISA will measure tiny distortions in spacetime with unprecedented precision. Led by the European Space Agency in collaboration with NASA, the mission will open a new window into black holes, galaxy formation, and fundamental physics."
+    "objectID": "people/bhardwaj-uddipta.html",
+    "href": "people/bhardwaj-uddipta.html",
+    "title": "Bhardwaj, Uddipta, Dr.",
+    "section": "",
+    "text": "Add Description"
+  },
+  {
+    "objectID": "people/vallisneri-michele.html",
+    "href": "people/vallisneri-michele.html",
+    "title": "Vallisneri, Michele, Prof.Dr.",
+    "section": "",
+    "text": "Add Description"
+  },
+  {
+    "objectID": "people/grimm-simon.html",
+    "href": "people/grimm-simon.html",
+    "title": "Grimm, Simon, Dr.",
+    "section": "",
+    "text": "Dr. Simon Grimm obtained his PhD in 2015 from the Institute for Computational Science at the University of Zürich, Switzerland, specializing in the development of high-performance computational methods for astrophysics.\nFollowing his doctoral studies, he served as a Senior Researcher (Oberassistent) at the Center for Space and Habitability at the University of Bern, where he also contributed his expertise as a GPU computing specialist for the university-wide supercomputing team, UBELIX. From 2023 to 2026, Simon continued his research as a Senior Researcher, splitting his time between the Exoplanetary Interiors group at ETH Zürich and the Planet Formation group at the University of Zürich.\nIn 2026, Simon joined the ETH Zürich Space Hub as a Software Engineer, where he is currently part of the Swiss LISA Data Processing Center. He is the lead author of several widely used simulation codes, including GENGA (a GPU-accelerated N-body integrator for planetary dynamics) and HELIOS-K (a high-performance opacity calculator for exoplanetary atmospheres)."
+  },
+  {
+    "objectID": "people/houba-niklas.html",
+    "href": "people/houba-niklas.html",
+    "title": "Houba, Niklas, Dr.",
+    "section": "",
+    "text": "Add Description"
+  },
+  {
+    "objectID": "people/giarda-giovanni.html",
+    "href": "people/giarda-giovanni.html",
+    "title": "Giarda, Giovanni",
+    "section": "",
+    "text": "Add Description"
   }
 ]
