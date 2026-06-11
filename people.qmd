@@ -19,11 +19,19 @@ listing:
  
   - id: staff
     contents: people/*.qmd
-    type: grid
+    type: default
     filter-ui: false
     sort-ui: false
     include:
       categories: [staff]
+
+  - id: collaborators
+    contents: people/*.qmd
+    type: default
+    filter-ui: false
+    sort-ui: false
+    include:
+      categories: [collaborators]
  
   - id: researchers
     contents: people/*.qmd
@@ -36,27 +44,24 @@ listing:
  
 :::: {.columns}
  
-::: {.column width="48%"}
 ## Group Lead
 ::: {#head}
 :::
 :::
- 
-::: {.column width="4%"}
-:::
- 
-::: {.column width="48%"}
+  
 ## Managing Director
 ::: {#director}
 :::
-:::
- 
-::::
  
 ## Staff
 ::: {#staff}
 :::
 
+## Collaborators
+::: {#collaborators}
+:::
+
 ## Researchers
 ::: {#research}
 :::
+

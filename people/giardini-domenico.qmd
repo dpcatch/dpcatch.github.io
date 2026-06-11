@@ -1,8 +1,8 @@
 ---
-title: "Renzini, Arianna, Dr."			#add name and title here
-description: "Director"				#Postdoc, PhD student, ...
-image: images/arianna-renzini.jpg			#insert link to image
-categories: [director, all]				#pi | all
+title: "Giardini, Domenico, Prof.Dr."		#add name and title here
+description: "Collaborator"			#Postdoc, PhD student, ...
+image: images/domenico-giardini.jpg			#insert link to image
+categories: [collaborators, all]				#pi | all
 about:
   template: jolla
   image-shape: round
@@ -10,7 +10,7 @@ about:
     #see a list of available icons here: https://icons.getbootstrap.com/
     - icon: envelope-at
       text: Email
-      href: mailto:arenzini@phys.ethz.ch	#add email here
+      href: mailto:domenico.giardini@eaps.ethz.ch		#add email here
     - icon: github
       text: Github
       href: https://github.com/			#add github page here
