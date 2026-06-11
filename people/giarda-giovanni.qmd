@@ -13,7 +13,7 @@ about:
       href: mailto:ggiarda@phys.ethz.ch	#add email here
     - icon: github
       text: Github
-      href: https://github.com/			#add github page here
+      href: https://github.com/ggiarda			#add github page here
     - icon: globe
       text: Homepage
       href: "#"					#add personal homepage here
@@ -22,5 +22,4 @@ about:
 
 #add Description about yourself here
 ---
-Add Description
-
+Giovanni is a PhD student in the Gravitational Physics Group at ETH Zürich. Since joining the Swiss LISA Data Processing Center in 2025, he has been developing machine learning and statistical inference methods for gravitational-wave data analysis, with a particular focus on simulation-based transdimensional inference and neural source-separation techniques.
