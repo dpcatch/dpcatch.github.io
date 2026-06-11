@@ -2,8 +2,6 @@
 title: "Publications"
 ---
 
-## 2026 
-
 
 ## 2025
 
@@ -11,12 +9,22 @@ title: "Publications"
 arXiv:2511.23228
 [PDF](https://arxiv.org/pdf/2511.23228) | [Code](https://github.com/nhouba/slotflow-inference)
 
+**Niklas Houba**. Deep source separation of overlapping gravitational-wave signals and non-stationary noise artifacts.
+arXiv:2503.10398
+[PDF](https://arxiv.org/abs/2503.10398)
+
+Aaron D. Johnson, Javier Roulet, Katerina Chatziioannou, **Michele Vallisneri**, Chris G. Trejo, Kyle A. Gersbach. PETRA: From the LISA global fit to a catalog of Galactic binaries.
+Phys. Rev. D., 112, 2
+[PDF](https://arxiv.org/pdf/2502.14818)
+
 
 ## 2024
 
-**Stefan H. Strub**, Luigi Ferraioli, Cédric Schmelzbach, Simon C. Stähler, Domenico Giardini. Global Analysis of LISA Data with Galactic Binaries and Massive Black Hole Binaries.
+**Niklas Houba**, Jean-Baptiste Bayle, **Michele Vallisneri**. Robust Bayesian inference with gapped LISA data using all-in-one TDI-.
+arXiv:2412.20793
+[PDF](https://arxiv.org/pdf/2412.20793)
+
+**Stefan H. Strub**, Luigi Ferraioli, Cédric Schmelzbach, Simon C. Stähler, **Domenico Giardini**. Global Analysis of LISA Data with Galactic Binaries and Massive Black Hole Binaries.
 Phys. Rev. D., 110, 2
 [PDF](https://arxiv.org/pdf/2403.15318) | [Code](https://github.com/stefanstrub/GlobalGB)
 
-
-## 2023
