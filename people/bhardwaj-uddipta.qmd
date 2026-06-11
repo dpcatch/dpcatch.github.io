@@ -15,7 +15,7 @@ about:
       text: Github
       href: https://github.com/			#add github page here
     - icon: globe
-      text: homepage
+      text: Homepage
       href: "#"					#add personal homepage here
 
 						#add other information
