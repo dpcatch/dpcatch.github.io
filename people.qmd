@@ -8,7 +8,7 @@ listing:
     sort-ui: false
     include:
       categories: [head]
- 
+
   - id: director
     contents: people/*.qmd
     type: default
@@ -16,7 +16,7 @@ listing:
     sort-ui: false
     include:
       categories: [director]
- 
+
   - id: staff
     contents: people/*.qmd
     type: default
@@ -32,7 +32,7 @@ listing:
     sort-ui: false
     include:
       categories: [collaborators]
- 
+
   - id: researchers
     contents: people/*.qmd
     type: default
@@ -41,27 +41,34 @@ listing:
     include:
       categories: [research]
 ---
- 
+
 :::: {.columns}
- 
+
+::: {.column width="48%"}
 ## Group Lead
 ::: {#head}
 :::
 :::
-  
+
+::: {.column width="4%"}
+:::
+
+::: {.column width="48%"}
 ## Managing Director
 ::: {#director}
 :::
- 
+:::
+
+::::
+
 ## Staff
 ::: {#staff}
+:::
+
+## Researchers
+::: {#researchers}
 :::
 
 ## Collaborators
 ::: {#collaborators}
 :::
-
-## Researchers
-::: {#research}
-:::
-
