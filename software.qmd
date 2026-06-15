@@ -4,6 +4,53 @@ title: "Used Software"
 
 ## Codes developed at DPCATCH ##
 
+### SlotFlow ###
+
+A deep learning framework for amortized trans-dimensional inference using slot-based conditional normalizing flows.
+
+
+<https://github.com/nhouba/slotflow-inference>
+
+<https://arxiv.org/abs/2511.23228>
+
+
+Author: Niklas Houba
+
+
+### hbgb ###
+
+
+
+<https://github.com/dpcatch/HBGB>
+
+
+Author: Arianna Renzini
+
+
+### GBconfusion ###
+
+Package to estimate the galactic confusion noise for LISA.
+
+
+<https://github.com/dpcatch/GBconfusion>
+
+
+
+Author: Alice Cravioglio
+
+
+### GlobalGB ###
+
+Pipeline for searching Galactic Binaries (GBs) in Mojito/LDC-style LISA data
+
+<https://arxiv.org/pdf/2403.15318>
+ 
+<https://github.com/stefanstrub/GlobalGB>
+
+Author: Stefan Strub
+
+
+
 
 
 ## Other Codes ##
@@ -33,13 +80,4 @@ GPU-accelerated multi-source global fit pipeline for LISA data
 <https://arxiv.org/abs/2301.03673>
 
 
-### GlobalGB ###
-
-Pipeline for searching Galactic Binaries (GBs) in Mojito/LDC-style LISA data
-
-<https://arxiv.org/pdf/2403.15318>
- 
-<https://github.com/stefanstrub/GlobalGB>
-
-Author: Stefan Strub
 
