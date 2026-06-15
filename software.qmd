@@ -11,10 +11,19 @@ title: "Used Software"
 
 
 ### Geemoo ###
+
+GPU-accelerated multi-source global fit pipeline for LISA data
+
 <https://arxiv.org/abs/2501.10277>
 
 
 ### Erebor ###
+
+GPU-accelerated multi-source global fit pipeline for LISA data
+
+<https://lisa-analysis-tools.github.io/lisa-analysis-tools>
+
+<https://journals.aps.org/prd/abstract/10.1103/PhysRevD.111.024060>
 
 <https://arxiv.org/abs/2405.04690> 
 
@@ -24,7 +33,10 @@ title: "Used Software"
 <https://arxiv.org/abs/2301.03673>
 
 
-### Stefan’s code ###
+### GlobalGB ###
+
+Pipeline for searching Galactic Binaries (GBs) in Mojito/LDC-style LISA data
+
 <https://arxiv.org/pdf/2403.15318>
  
 <https://github.com/stefanstrub/GlobalGB>
