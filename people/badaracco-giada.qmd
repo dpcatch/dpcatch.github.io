@@ -15,8 +15,8 @@ about:
       text: Github
       href: https://github.com/gbadarac			#add github page here
     - icon: globe
-      text: LinkedIn
-      href: https://www.linkedin.com/in/giada-badaracco-644a7b220/					#add personal homepage here
+      text: Homepage
+      href: "#"					#add personal homepage here
 
 						#add other information
 
