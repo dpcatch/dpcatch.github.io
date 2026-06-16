@@ -13,14 +13,15 @@ about:
       href: mailto:gbadaracco@phys.ethz.ch	#add email here
     - icon: github
       text: Github
-      href: https://github.com/			#add github page here
+      href: https://github.com/gbadarac			#add github page here
     - icon: globe
-      text: Homepage
-      href: "#"					#add personal homepage here
+      text: LinkedIn
+      href: https://www.linkedin.com/in/giada-badaracco-644a7b220/					#add personal homepage here
 
 						#add other information
 
 #add Description about yourself here
+Giada is a PhD student in the Gravitational Physics Group at ETH Zürich. Since joining the Swiss LISA Data Processing Center in 2026, she has been developing machine learning and statistical inference methods for gravitational-wave data analysis, with a particular focus on amortized posterior inference for gravitational-wave signals using conditional generative AI.
 ---
 Add Description
 
