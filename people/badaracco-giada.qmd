@@ -21,7 +21,6 @@ about:
 						#add other information
 
 #add Description about yourself here
-Giada is a PhD student in the Gravitational Physics Group at ETH Zürich. Since joining the Swiss LISA Data Processing Center in 2026, she has been developing machine learning and statistical inference methods for gravitational-wave data analysis, with a particular focus on amortized posterior inference for gravitational-wave signals using conditional generative AI.
 ---
-Add Description
+Giada is a PhD student in the Gravitational Physics Group at ETH Zürich. Since joining the Swiss LISA Data Processing Center in 2026, she has been developing machine learning and statistical inference methods for gravitational-wave data analysis, with a particular focus on amortized posterior inference for gravitational-wave signals using conditional generative AI.
 
